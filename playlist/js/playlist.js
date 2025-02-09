@@ -93,7 +93,7 @@ const musicCatalog = () => {
          } else {
           return pl;
          }
-    });
+      });
     };
   
     /**
